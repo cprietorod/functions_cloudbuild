@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SENDGRID_API_KEY="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"
-EMAIL_TO="cprietorodriguez@gmail.com"
+EMAIL_TO=""
 FROM_EMAIL="test@carlos-prieto.com"
 FROM_NAME="test"
 SUBJECT="Error in test"
